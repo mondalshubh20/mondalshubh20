@@ -7,4 +7,3 @@ Skills: Python / SQL / Excel / PowerBi / Tableau
 
 
 
-
