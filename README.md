@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shubhabrata Modal</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img src="gitcard.png" width="500" height="300"/>
+<style>
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Full viewport height for vertical centering */
+        }
+    </style>
+
+    <body>
+    <div class="center">
+        <img src="gitcard.png" width="500" height="300" alt="GitCard">
+    </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
